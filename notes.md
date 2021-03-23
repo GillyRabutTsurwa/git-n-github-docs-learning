@@ -1,3 +1,7 @@
+# What is a pull request template?
+
+Exactly what it sounds like: it is a template used for making more efficient, specialised, and better oriented pull requests. In addition to making pull requests, from scratch, we can create a template (a lot like a form) to fill in the information needed to generate the pull request.
+
 ## How to make a pull request
 
 ### What is a pull request?
