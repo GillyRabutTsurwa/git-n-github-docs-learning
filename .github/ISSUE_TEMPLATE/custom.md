@@ -1,10 +1,11 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
+name: Ojala 
+about: Lesseeee if this works here
+title: 'Yo yo yo 1 1'
 labels: ''
-assignees: ''
+assignees: 'GillyRabutTsurwa'
 
 ---
 
 
+# Will this actually work fam?
